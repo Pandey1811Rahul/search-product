@@ -13,7 +13,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SearchProductOnline</name>
 	<description>search  online product catalogue</description>
-	<packaging>war</packaging>
 
 	<properties>
 		<java.version>1.8</java.version>

@@ -43,6 +43,7 @@ public class ProductCatalogueController {
 		return new ResponseEntity<List<Product>>(products, HttpStatus.OK);
 	}
 	
+	
 	/**
 	 * 
 	 * @param productDto
